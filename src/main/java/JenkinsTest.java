@@ -8,4 +8,3 @@ public class JenkinsTest {
 		System.out.println("Hello World!!!");
 	}
 }
-}
